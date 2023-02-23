@@ -18,6 +18,6 @@ To run the test loop simply add the --test argument to the train loop command.
   
 The results of the model after implementing Non-Maximum Suppression are fairly good.
 ![Image 1](imag1.png)
-![Image 2] (imag2.png)
+![Image 2](imag2.png)
 
 The image to the left is the model's prediction while the image to the right is the ground truth bounding box.
